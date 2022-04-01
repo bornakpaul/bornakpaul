@@ -12,4 +12,4 @@ Couple things about me:
 How to reach me 📫 :
 
 🏠 Personal: bornakpaul@gmail.com
-📋 Work: bornakpaul.in
+📋 Work: https://bornakpaul.in
