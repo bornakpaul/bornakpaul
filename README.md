@@ -8,7 +8,7 @@ Couple things about me:
 
 🏅 Flutter Developer | Android Developer | iOS Developer | Web Developer
 
-🤝 Mobile Application Developer Head of Google Developer Student Club (SET-JU) 2021-2022.
+🤝 Faculty of Engineering and Technology - Jain Deemed to be University (Alumnus, batch of 2022)
 
 ✍🏻 My portfolio and website - https://bornakpaul.in .
 
