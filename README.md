@@ -4,7 +4,7 @@ Thanks for visiting my profile page.
 
 Couple things about me:
 
-🌱 Final year Student and Engineer intern at Kuddle.
+🌱 Product Engineer at https://kuddle.pet .
 🏅 Flutter Developer | Android Developer | iOS Developer | Web Developer
 🤝 Mobile Application Developer Head of Google Developer Student Club (SET-JU) 2021-2022.
 ✍🏻 My portfolio and website - https://bornakpaul.in .
