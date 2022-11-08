@@ -16,3 +16,5 @@ Couple things about me:
 
 How to reach me 📫 :
 🏠 Personal: bornakpaul@gmail.com
+
+[![@bornakpaul's Holopin board](https://holopin.me/bornakpaul)](https://holopin.io/@bornakpaul)
