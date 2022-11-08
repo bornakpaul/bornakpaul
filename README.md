@@ -16,4 +16,3 @@ Couple things about me:
 
 How to reach me 📫 :
 🏠 Personal: bornakpaul@gmail.com
-📋 Work: bornak@kuddle.pet
