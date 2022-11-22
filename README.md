@@ -18,3 +18,5 @@ How to reach me 📫 :
 🏠 Personal: bornakpaul@gmail.com
 
 [![@bornakpaul's Holopin board](https://holopin.me/bornakpaul)](https://holopin.io/@bornakpaul)
+
+<a href="https://stardev.io/developers/bornakpaul"><img alt="Check out bornakpaul's profile on stardev.io" src="https://stardev.io/developers/bornakpaul/badge/languages/global.svg" /></a>
