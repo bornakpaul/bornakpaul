@@ -4,7 +4,7 @@ Thanks for visiting my profile page.
 
 Couple things about me:
 
-🐶 Product Engineer at https://kuddle.pet
+💼 SDE at https://www.nitara.co.in/
 
 🏅 Flutter Developer | Android Developer | iOS Developer | Web Developer
 
