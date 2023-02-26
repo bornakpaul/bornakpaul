@@ -6,7 +6,9 @@ Couple things about me:
 
 💼 SDE at https://www.nitara.co.in/
 
-🏅 Flutter Developer | Android Developer | iOS Developer | Web Developer
+🏅 Frontend: Flutter | Android | iOS | Web
+
+🏅 Backend: NodeJS | Kotlin
 
 🤝 Faculty of Engineering and Technology - Jain Deemed to be University (Alumnus, batch of 2022)
 
