@@ -6,7 +6,7 @@ Couple things about me:
 
 💼 SDE at https://www.nitara.co.in/
 
-🏅 Frontend: Flutter | Android | iOS | Web
+🏅 Frontend: Flutter | Kotlin | Swift | ReactJs
 
 🏅 Backend: NodeJS | Kotlin
 
