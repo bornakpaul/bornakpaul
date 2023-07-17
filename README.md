@@ -1,14 +1,12 @@
 Hello It's Bornak Paul.
 
-Thanks for visiting my profile page.
-
 Couple things about me:
 
 💼 SDE at https://www.nitara.co.in/
 
-🏅 Frontend: Flutter | Kotlin | Swift | ReactJs
+🏅 Frontend: Flutter | Kotlin
 
-🏅 Backend: NodeJS | Kotlin
+🏅 Backend: NodeJS | KTOR
 
 🤝 Faculty of Engineering and Technology - Jain Deemed to be University (Alumnus, batch of 2022)
 
