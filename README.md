@@ -2,9 +2,9 @@ Hello It's Bornak Paul.
 
 Couple things about me:
 
-💼 SDE at https://www.nitara.co.in/
+💼 Mobile Application Developer at https://www.nitara.co.in/
 
-🏅 Frontend: Flutter | Kotlin
+🏅 Frontend: Flutter | Kotlin | SwiftUi
 
 🏅 Backend: NodeJS | KTOR
 
