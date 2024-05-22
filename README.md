@@ -4,9 +4,11 @@ Couple things about me:
 
 💼 Mobile Application Developer at https://www.nitara.co.in/
 
-🏅 Frontend: Flutter | Kotlin | SwiftUi
+🏅 Mobile: Flutter | Jetpack compose | SwiftUi
 
-🏅 Backend: NodeJS | KTOR
+🏅 Web: NextJS | Tailwind CSS
+
+🏅 Backend: NodeJS | Kotlin - KTOR
 
 🤝 Faculty of Engineering and Technology - Jain Deemed to be University (Alumnus, batch of 2022)
 
